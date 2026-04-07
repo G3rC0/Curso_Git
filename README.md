@@ -1,0 +1,1 @@
+Este es una pagina creada para el curso de Git y Github, el cual haremos una pagina informativa, el cual tendra lo basico, de cualquier pagina.
